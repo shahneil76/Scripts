@@ -1,2 +1,3 @@
 # Scripts
-This code will help you to install various linux packages easily via this script.
+
+<a href="https://www.buymeacoffee.com/shahneil76" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
